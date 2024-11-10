@@ -5,6 +5,11 @@
 			"description": "Arch Linux based repositories",
 			"domain_files": ["arch.txt"]
 		},
+        {
+            "name": "alpine",
+            "desription": "Alpine Linux based repositories",
+            "domain_files": ["alpine.txt"]
+        },
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
