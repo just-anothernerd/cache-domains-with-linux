@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "alpine",
+			"description": "Alpine Linux based repositories",
+			"domain_files": ["alpine.txt"]
+		},
+				{
 			"name": "arch",
 			"description": "Arch Linux based repositories",
 			"domain_files": ["arch.txt"]
