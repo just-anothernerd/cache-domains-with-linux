@@ -1,3 +1,5 @@
+pkg-repo.blendos.co
+geo.mirror.pkgbuild.com
 al.arch.niranjan.co
 arch-mirror.marcusspencer.xyz
 arch.goober.cloud
