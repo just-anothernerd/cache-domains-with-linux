@@ -5,7 +5,7 @@
 			"description": "Alpine Linux based repositories",
 			"domain_files": ["alpine.txt"]
 		},
-				{
+		{
 			"name": "arch",
 			"description": "Arch Linux based repositories",
 			"domain_files": ["arch.txt"]
@@ -45,6 +45,11 @@
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
 		},
+        {
+            "name": "flathub",
+            "description": "CDN for Flathub"
+            "domain_files": ["flathub.txt"]
+        },
 		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
